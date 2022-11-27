@@ -1,0 +1,2 @@
+jsonschema==4.17.1
+black==22.10.0
